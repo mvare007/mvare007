@@ -1,4 +1,4 @@
-<h1 align="center">Hello , I'm Marco Varela</h1>
+<h1 align="center">Thank you for checking out my profile!</h1>
 <h3 align="center">I'am a full stack web developer based in Lisbon who is deeply passionate about empowering humans through technology.</h3>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mvare007" alt="mvare007" /> </p>
