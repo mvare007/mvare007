@@ -1,4 +1,4 @@
-<p align="center"><kbd><img src="https://avatars1.githubusercontent.com/u/58235374?s=460&u=71026b20f119072d052405895f7335cc20d296a0&v=4" alt="profile-pic"  width="245" height="260" /></kbd></p>
+<p align="center"><kbd><img src="https://avatars1.githubusercontent.com/u/58235374?s=460&u=71026b20f119072d052405895f7335cc20d296a0&v=4" alt="profile-pic"  width="245" height="260" style="border-radius:50%"/></kbd></p>
 
 <h1 align="center">Hello , I'm Marco Varela</h1>
 <h3 align="center">I'am a full stack web developer based in Lisbon who is deeply passionate about empowering humans through technology.</h3>
