@@ -3,7 +3,7 @@
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mvare007" alt="mvare007" /> </p>
 
-- 👨‍💻 All of my projects are available at [www.marco-varela.com](www.marco-varela.com)
+- 👨‍💻 All of my projects are available at [www.marco-varela.com]("https://marco-varela.com)
 
 - 📫 How to reach me **marco.varela12@gmail.com**
 <br/>
