@@ -1,11 +1,10 @@
-<h1 align="center">Thank you for checking out my profile!</h1>
-<h3 align="center">I'am a full stack web developer based in Lisbon who is deeply passionate about empowering humans through technology.</h3>
+<h1 align="center">Hello I'm Marco! Pleased to meet you! 😀</h1>
+<h3 align="center">
+  Programming is one of my passions, especially when I'm tinkering with Ruby as I 'am a Rubyist at heart - it's hard to resist the allure of creating digital wonders with just a few lines of beautiful, idiomatic code. 
+</h3>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mvare007" alt="mvare007" /> </p>
 
-<!--
-- 👨‍💻 All of my projects are available at <a href="https://marco-varela.com"/>marco-varela.com</a>
--->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mvare007&show_icons=true" alt="mvare007" /></p>
 
