@@ -1,6 +1,7 @@
 <h1 align="center">Hello I'm Marco! Pleased to meet you! 😀</h1>
 <h3 align="center">
-  Programming is one of my passions, especially when I'm tinkering with Ruby as I 'am a Rubyist at heart - it's hard to resist the allure of creating digital wonders with just a few lines of beautiful, idiomatic code. 
+  Programming is one of my passions, especially when I'm tinkering with Ruby as I 'am a Rubyist at heart.
+  it's hard to resist the allure of creating digital wonders with just a few lines of beautiful, idiomatic code. 
 </h3>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=mvare007&style=flat-square&color=yellow" alt="Profile Views Counter">
@@ -16,3 +17,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=mvare007&show_icons=true" />
 </picture>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvare007&layout=donut" alt="Top Languages">
+</a>
