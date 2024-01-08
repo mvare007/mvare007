@@ -21,7 +21,4 @@
   <img height=200 align="center"  src="https://github-readme-stats.vercel.app/api?username=mvare007&show_icons=true" />
 </picture>
 
-<picture>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvare007&layout=donut&theme=gruvbox_light" alt="Top Languages">
-</picture>
 
