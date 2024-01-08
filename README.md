@@ -11,7 +11,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mvare007&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=mvare007&show_icons=true&theme=gruvbox_light"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -22,6 +22,6 @@
 </picture>
 
 <picture>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvare007&layout=donut&theme=dark" alt="Top Languages">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvare007&layout=donut&theme=gruvbox_light" alt="Top Languages">
 </picture>
 
