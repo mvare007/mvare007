@@ -3,7 +3,7 @@
   Programming is one of my passions, especially when I'm tinkering with Ruby as I 'am a Rubyist at heart - it's hard to resist the allure of creating digital wonders with just a few lines of beautiful, idiomatic code. 
 </h3>
 <br/>
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=mvare007&style=flat-square&color=yellow" alt="Profile Views Counter">
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mvare007&show_icons=true" alt="mvare007" /></p>
