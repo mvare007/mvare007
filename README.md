@@ -2,11 +2,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=mvare007&style=flat-square&color=yellow" alt="Profile Views Counter">
 
-<h5 align="center">
-  Programming is one of my passions, especially when I'm tinkering with Ruby as I 'am a Rubyist at heart.
-  it's hard to resist the allure of creating digital wonders with just a few lines of beautiful, idiomatic code. 
-</h5>
-
 <br/>
 
 <picture>
